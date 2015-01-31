@@ -4,7 +4,7 @@ Interfacing SQLite and C++ code. View Table, Insert Record, Find Avg over Interv
 
 Program that interfaces with SQLite database. Displays records, inserts records, finds average over a range.
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!REQUIRES BOOST AND SQLITE3 LIBRARIES!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+REQUIRES BOOST AND SQLITE3 LIBRARIES!!!
 
 This program is a C++ interface to SQLite database. main.cpp(main class), include\Engine.h(header), 
 and src\Engine.cpp(implementation) are the main files that went into developing this program.
