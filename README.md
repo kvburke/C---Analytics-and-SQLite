@@ -1,5 +1,5 @@
 # C---Analytics-and-SQLite
-Interfacing SQLite and C++ code. View Table, Insert Record, Find Avg over Interval
+Interfacing SQLite and C++ code. View Table, Insert Record, Find Avg over Interval.
 
 
 Program that interfaces with SQLite database. Displays records, inserts records, finds average over a range.
